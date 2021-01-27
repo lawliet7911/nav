@@ -3,13 +3,13 @@ import { IConfig } from './src/types'
 // 网站 LOGO 替换根目录下的 logo.png， 务必为 png 后缀
 const c: IConfig = {
   // [必填], 请填写您的仓库地址
-  gitRepoUrl: 'https://github.com/xjh22222228/nav',
+  gitRepoUrl: 'https://github.com/lawliet7911/nav',
 
   // 路由是否Hash模式, 如果是部署在github pages 务必设为 true
   hashMode: true,
 
   // 您的网站地址，这对于SEO很重要
-  homeUrl: 'https://nav3.cn',
+  homeUrl: '',
 
   // 网站标题
   title: '发现导航 - 精选实用导航网站',
